@@ -1,6 +1,6 @@
-# Semester Project #1
+# Student login authentication and session authorization system
 
-## DS-UNIPI: Information Systems - 2021
+## *DS-UNIPI: Information Systems*
 
 This is a Flask application.
 It implements basic CRUD API services for a MongoDB database
